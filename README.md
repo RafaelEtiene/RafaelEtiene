@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
-- 🌱  Improving at Asp.Net Core | Angular | React  | TypeScript 
+- 🌱  Improving at .NET | Angular | React  | TypeScript 
 - 📚  Systems Analysis and Development Student
 
  <div>
