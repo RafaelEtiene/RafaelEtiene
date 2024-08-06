@@ -1,6 +1,6 @@
 ### Hi, i'm Rafael 🫡
 
-## I'm a Software Developer!
+## I'm a Fullstack Developer!
 
 - 🌱  Improving at .NET | Angular | React  | TypeScript 
 - 📚  Systems Analysis and Development Student
