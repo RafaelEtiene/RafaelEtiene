@@ -1,9 +1,6 @@
 ### Hi, i'm Rafael 🫡
 
-## I'm a Fullstack Developer!
-
-- 🌱  Improving at .NET | Angular | React  | TypeScript 
-- 📚  Systems Analysis and Development Student
+## I'm a .NET Developer!
 
  <div>
   <a href="https://github.com/RafaelEtiene">
